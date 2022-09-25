@@ -3,10 +3,6 @@
 #include <iomanip>
 using namespace std;
 
-/*
-Área do Círculo
-*/
-
 int main() {
     double raio, n, area;
 
